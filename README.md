@@ -1,8 +1,8 @@
 # 💫 About Me:
 👨‍💻 Hi, I'm Daniel, a Full-Stack programmer with knowledge in multiple programming languages and technologies. 🔧💻<br><br>🌐 Languages: TypeScript, JavaScript, Python, Solidity and Lua.<br><br>🗄️ Databases: MySQL, PostgreSQL, MongoDB and Redis.<br><br>⚙️ Technologies: Node.js, React, Next.JS, DJango, Gatsby, Web3, WebSockets, Chrome Extensions, Docker, AWS, APIs (RestAPI, GraphQL), .<br><br>💼 Experience: I have worked on personal projects as well as collaborations with various companies.<br><br>🆕 Currently, I'm freelancing and expanding my skill set by learning Rust. I'm actively seeking a permanent position in a company or project where I can contribute my expertise and continue to grow professionally.<br><br>🎨 I'm a highly creative individual with a strong logical approach to programming.<br><br>🏢 Methodologies: Proficient in various Agile methodologies and design patterns.<br><br>I'm ready to tackle new challenges and create innovative solutions! 🚀💡
 
-Check my [portfolio.](https://dann-portfolio.netlify.app/)
-All my projects and repository will be in: https://github.com/DanzCodes
+Check my [portfolio.](https://dann-portfolio.netlify.app/)  
+All my projects and repositories will be in: https://github.com/DanzCodes
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/DkillGames#4592) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/luis-daniel-zambrano-a4461b205/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@danitocode) 
